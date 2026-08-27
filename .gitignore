@@ -1,6 +1,6 @@
 #Compilacion
 bin/
-obj/
+obj/ 
 
 #IDE
 .vs/
